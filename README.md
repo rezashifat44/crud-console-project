@@ -248,7 +248,4 @@ The app has no option to become an admin. An admin is made by hand:
 
 ## Video Demonstration
 
-> 🎥 A video walkthrough of the application will be added here.
-
-<!-- Replace the line below with your video link, e.g. [Watch the demo](https://youtu.be/your-video-id) -->
-**Video link:** _Coming soon_
+https://drive.google.com/file/d/18BId97LWY9yuRjj_0UXX8i_60g78oEF5/view?usp=sharing
